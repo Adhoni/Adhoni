@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Ambalika Dhoni
+- 👀 I’m interested in **data science**, **machine learning**, and **full-stack development**. I enjoy solving complex problems and building intelligent systems that drive impactful results.  
+- 🌱 I’m currently pursuing a **Master's in Computer Science** at **Stony Brook University** and have about **3 years of experience** working as a **Data Scientist** at **Wipro**, primarily focused on healthcare systems.  
+- 💞️ I’m looking to collaborate on **data science projects**, **machine learning models**, and **full-stack web applications**. I'm always excited to work with like-minded professionals to develop innovative solutions.  
+- 📫 How to reach me:  
+  - Email: adhoni@cs.stonybrook.edu  
+  - LinkedIn: [Ambalika Dhoni](https://www.linkedin.com/in/ambalika-dhoni-a22224183/)  
+  - GitHub: [Adhoni](https://github.com/Adhoni)  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: As a data scientist, I love diving into patterns—whether it’s exploring stories in **books**, finding nostalgia in **old songs**, experimenting with **new recipes** in the kitchen, or discovering new trends while **traveling**. Each hobby adds to my curiosity and creativity, fueling my passion for problem-solving.
