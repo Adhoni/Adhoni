@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Ambalika Dhoni
-- 👀 I’m interested in **data science**, **machine learning**, and **full-stack development**. I enjoy solving complex problems and building intelligent systems that drive impactful results.  
-- 🌱 I’m currently pursuing a **Master's in Computer Science** at **Stony Brook University** and have about **3 years of experience** working as a **Data Scientist** at **Wipro**, primarily focused on healthcare systems.  
-- 💞️ I’m looking to collaborate on **data science projects**, **machine learning models**, and **full-stack web applications**. I'm always excited to work with like-minded professionals to develop innovative solutions.  
+- 👀 I’m interested in **full-stack development**, **machine learning**, and **data science**. I enjoy solving complex problems and building intelligent systems that drive impactful results.  
+- 🌱 I’m currently pursuing a **Master's in Computer Science** at **Stony Brook University** and have about **3 years of experience**  at **Wipro**.  
+- 💞️ I’m looking to collaborate on **full-stack web applications** , **machine learning models**, and  **data science projects**. I'm always excited to work with like-minded professionals to develop innovative solutions.  
 - 📫 How to reach me:  
   - Email: adhoni@cs.stonybrook.edu  
   - LinkedIn: [Ambalika Dhoni](https://www.linkedin.com/in/ambalika-dhoni-a22224183/)  
   - GitHub: [Adhoni](https://github.com/Adhoni)  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: As a data scientist, I love diving into patterns—whether it’s exploring stories in **books**, finding nostalgia in **old songs**, experimenting with **new recipes** in the kitchen, or discovering new trends while **traveling**. Each hobby adds to my curiosity and creativity, fueling my passion for problem-solving.
+- ⚡ Fun fact: ⚡ Fun fact: Whether it's developing sleek, responsive web apps or diving deep into data, I enjoy finding patterns everywhere! From debugging a complex codebase to uncovering insights in messy datasets, my passion for solving puzzles drives me. In my free time, I channel this love for discovery into hobbies like cooking new recipes (which feels like debugging flavors) and traveling to explore new trends and cultures!
